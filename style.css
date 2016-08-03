@@ -1,0 +1,23 @@
+﻿#words-board{
+    width: 600px;
+    height: 600px;
+    border: #000 1px solid;
+    margin: 0 auto;
+}
+#words-board center{
+    width: 198px;
+    height: 198px;
+    float: left;
+    border: 1px solid #000;
+}
+/*#words-board center:hover{
+    background: #eeeeee;
+}*/
+.close{
+   text-indent: 100%;
+   white-space: nowrap;
+   overflow: hidden;
+}
+.gray{
+    background: #eeeeee;
+}
